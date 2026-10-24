@@ -1,0 +1,22 @@
+# Kalpa Health, Brief A (Growth)
+
+---
+## My Contribution – Evidence, Strategy and Presentation
+
+My main role in this project was to understand why Kalpa Health did not achieve its planned growth and use the available data to explain the reasons. I focused on testing different explanations, checking the evidence, identifying the limitations in the data, and developing recommendations based on our findings. I wanted to make sure that we did not jump to conclusions without proper evidence.
+
+I examined 12 possible explanations for the growth shortfall. Four were supported by our analysis: the plan was ambitious, new-patient acquisition declined in Chennai and Jaipur, growth was mainly driven by package products, and there was a shift in the mix between home and clinic bookings. Six explanations were ruled out, found to have limited impact, or were less significant. Two could not be tested because we did not have enough information about pricing, competitors, marketing expenditure, and staffing.
+
+One of my main findings was the decline in new-patient acquisition in Chennai and Jaipur. New-patient counts fell by around 27% in Chennai and 34% in Jaipur, while the four peer cities showed growth of around 15% to 19%. I also checked when this decline started. The data showed that the decline began in January, but the Nova system was introduced only on 1 April. Weekly bookings also remained almost the same during the system cutover, with 4,595 tests in the week before and 4,579 tests during the go-live week. Based on this evidence, I concluded that the Nova cutover could not explain the beginning of the acquisition decline.
+
+I also examined patient retention and clinic capacity. Retention was 32.6% in the peer cities and 33.6% in Chennai and Jaipur, which meant that retention was not the main difference between them. However, the peer cities acquired 47 new patients per 100 previous active patients, compared with only 28 in Chennai and Jaipur. I also checked clinic utilisation and found that only two clinics reached at least 90% peak utilisation in H1 2026, both in Bengaluru. Jaipur's busiest clinic reached around 50%. This suggested that limited clinic capacity alone was unlikely to explain the shortfall.
+
+Another area I analysed was the free-home-collection campaign. The company waived the ₹150 home-collection fee on 48,869 bookings between January and March, resulting in approximately ₹73.3 lakh in recorded waivers. Home bookings increased as a share of total tests, but clinic bookings declined during the same period. Since the campaign applied to all home bookings, there was no control group to measure its actual impact. Therefore, I treated the change as a possible shift between booking channels rather than claiming that the campaign directly generated additional tests.
+
+I also worked on separating facts, interpretations, and hypotheses. For example, the size of the growth gap was a fact supported by the data, while describing the plan as too ambitious was an interpretation. The exact reason for the January acquisition decline remained unknown because the available data could not establish its cause. I made sure that these limitations were clearly acknowledged rather than presenting assumptions as confirmed findings.
+
+As part of my work, I prepared an evidence ledger connecting 37 important claims to their source tables, formulas, reporting periods, filters, and limitations. I also prepared 14 possible board-level questions with evidence-based answers. This helped us check our findings and prepare for questions about the analysis.
+
+Based on the results, I contributed three main recommendations: investigate the January acquisition decline in Chennai and Jaipur within 30 days, test future acquisition initiatives through controlled pilots before expanding them, and prepare a more realistic growth plan based on individual cities, channels, and business drivers. I also proposed success measures and stop rules for these actions, for management to review and confirm.
+
+Through this project, I learned that a good analysis is not just about finding numbers but also about understanding what those numbers can and cannot tell us. I realised that sometimes the best recommendation is to investigate the problem before spending more money. I also learned the importance of working with other team members, as I relied on Member 1's data integrity checks and Member 2's benchmark and driver analysis to support my work.
