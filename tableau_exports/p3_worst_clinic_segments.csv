@@ -1,0 +1,7 @@
+channel,source,rest,this_clinic,gap_pp,clinic_id
+clinic,app,15.0783,17.9928,2.9145,CHE-03
+clinic,phone,19.7840,22.1067,2.3228,CHE-03
+clinic,walkin,17.8035,20.4342,2.6307,CHE-03
+home,app,8.8151,9.3014,0.4863,CHE-03
+home,phone,12.1157,14.7712,2.6555,CHE-03
+home,walkin,10.3655,11.8241,1.4586,CHE-03

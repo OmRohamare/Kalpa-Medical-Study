@@ -1,0 +1,8 @@
+city,revenue_prior_cr,revenue_current_cr,revenue_growth_pct,patients_growth_pct,tests_per_patient_growth_pct,revenue_per_test_growth_pct,is_total
+Ahmedabad,4.2642,4.9963,17.1663,10.2339,0.5988,5.6561,0
+Bengaluru,5.4957,6.3056,14.7362,7.9642,0.9138,5.3101,0
+Chennai,4.3898,4.7137,7.3778,-4.2538,5.7019,6.0988,0
+Hyderabad,3.9907,4.5984,15.2259,8.4175,-0.5042,6.8183,0
+Jaipur,2.4801,2.3812,-3.9876,-11.3981,1.5921,6.6656,0
+Pune,3.3377,3.8332,14.8478,8.3228,0.3376,5.6669,0
+TOTAL,23.9583,26.8283,11.9794,4.2353,1.3962,5.9501,1

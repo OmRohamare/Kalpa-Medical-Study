@@ -1,0 +1,10 @@
+metric,value
+waiver_cost_rs,7330350.0000
+home_tests_gained,22942.1878
+clinic_tests_lost,-18327.5315
+net_extra_tests,4589.7601
+cost_per_net_extra_test_rs,1597.1096
+revenue_per_invoiced_test_rs,675.8963
+booked_to_invoiced_share,0.8288
+revenue_from_net_extra_tests_rs,2571176.1086
+breakeven_new_booking_share,0.1154

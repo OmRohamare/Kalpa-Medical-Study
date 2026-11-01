@@ -1,0 +1,14 @@
+step_no,step,rupees,crore,row_type
+1,1 Billed (invoices),737020069.0000,73.7020,total
+2,2 less: invoices with no captured payment,-34821601.0000,-3.4822,movement
+3,3 +/- single-payment invoices paid more or less than billed,4449.0000,0.0004,movement
+4,4 +/- invoices with several captured payments (vs billed),3016808.0000,0.3017,movement
+5,5 = Captured on known invoices,705219725.0000,70.5220,total
+6,6 + captured payments with no matching invoice,7269408.0000,0.7269,movement
+7,7 = All captured money,712489133.0000,71.2489,total
+8,8 less: captured but not in any settlement,-0.0000,-0.0000,movement
+9,9 less: fees,-14249782.6600,-1.4250,movement
+10,10 less: tax on fees,-2564960.9500,-0.2565,movement
+11,11 = Expected settled cash,695674389.3900,69.5674,total
+12,12 Settled cash per settlement table,695674389.3900,69.5674,total
+13,13 Unexplained (11 - 12),0.0000,0.0000,movement
