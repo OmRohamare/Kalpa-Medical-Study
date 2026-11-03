@@ -1,1 +1,0 @@
-# Kalpa-Medical-Study
